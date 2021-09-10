@@ -4,12 +4,14 @@
 - Fork and clone this repo
 - run npm install to gather all dependencies and test framework
 
-### Solving
+## Solving
 - Write your code in problemOne.js 
 - Run npm test until all tests are passing
 - You can also run node problemOne.js if you would like to see what you are printing to the console for debugging purposes 
 - comments on a more efficient solution than provided in solution.js are welcom
 
+## Language 
+- This code challenge is intended to be solved using JavaScript
 
 ## Instructions
 - Write a function called minFromMax that takes in array of numbers as an argument
